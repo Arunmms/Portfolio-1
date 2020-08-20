@@ -1,0 +1,92 @@
+body{
+
+}
+h2{
+  padding: 5px 0px;
+}
+p{
+  padding:20px 0px;
+}
+ul{
+  padding: 10px 0px;
+}
+.container {
+height: 100%;
+width:20%;
+position:fixed;
+background-color: 	#cd853f;
+}
+.flex-column{
+  text-align: center;
+  padding: 200px 30px;
+}
+.profile-image{
+  height: 170px;
+  width: 150px;
+  text-align: center;
+  border-radius: 50%;
+  border: 10px solid brown;
+}
+.nav-link{
+  text-align: center;
+  color: black;
+  padding:10px 0px;
+}
+#about{
+  padding:200px 300px;
+}
+.taylor{
+  color: #cd853f;
+}
+.fab{
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+#experience{
+  padding:100px 300px;
+}
+.exp-top{
+  padding-bottom: 40px;
+}
+.date{
+  display:inline-table;
+}
+.mar{
+  position: absolute;
+  right : 30px;
+  color: #CD853F;
+}
+.company{
+  color: #A9A9A9;
+}
+#education{
+  padding:100px 300px
+}
+.skill-set{
+  color: #808080;
+  padding: 20px 0px;
+}
+.work{
+  padding: 20px 0px;
+}
+#skills{
+  padding-top: 200px;
+
+}
+#interests{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.int-para{
+  padding: 5px;
+  color: #808080;
+}
+.gold{
+  padding: 5px;
+  color: #DAA520
+}
+#awards{
+  padding-bottom: 200px;
+  padding-top: 200px;
+}
